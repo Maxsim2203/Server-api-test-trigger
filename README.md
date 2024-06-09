@@ -14,6 +14,13 @@ By far the fastest available python triggerbot out there, no joke its speed is p
 - Должно сработать
 
 - Дополнительно можно изменить допуск цвета, рекомендую 20-70, также можно добавить задержку, => config.json
+# How to setup
+- If you are a programmer you can use the source code, if not, keep using the exe.
+- Launch Exe, launch Valorant, go to game settings and use the purple outline.
+- In game settings, go to keyboard shortcuts and add K as a second shooting key.
+— By default, Shift is a hotkey. If you have always enabled enable, use the F10 key instead.
+- It should work
 
+- Additionally, you can change the color tolerance, I recommend 20-70, you can also add a delay, => config.json
 
 
